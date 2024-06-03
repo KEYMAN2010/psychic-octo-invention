@@ -108,7 +108,7 @@ Converted["_Open"].BackgroundTransparency = 1
 Converted["_Open"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_Open"].BorderSizePixel = 0
 Converted["_Open"].Position = UDim2.new(0.499372631, 0, 0.06341701, 0)
-Converted["_Open"].Size = UDim2.new(0, 493, 0, 50)
+Converted["_Open"].Size = UDim2.new(0, 153, 0, 50)
 Converted["_Open"].Name = "Open"
 Converted["_Open"].Parent = Converted["_YARHM"]
 
@@ -120,7 +120,7 @@ Converted["_Menu"].BorderColor3 = Color3.fromRGB(0, 0, 0)
 Converted["_Menu"].BorderSizePixel = 0
 Converted["_Menu"].ClipsDescendants = true
 Converted["_Menu"].Position = UDim2.new(0.499372661, 0, 0.0410327986, 0)
-Converted["_Menu"].Size = UDim2.new(0, 441, 0, 268)
+Converted["_Menu"].Size = UDim2.new(0, 141, 0, 268)
 Converted["_Menu"].Name = "Menu"
 Converted["_Menu"].Parent = Converted["_YARHM"]
 
